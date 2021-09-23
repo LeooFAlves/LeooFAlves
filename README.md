@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeooFAlves
+- 👀 I’m interested in discover and learn all about software development.
+- 🌱 I’m currently learning front and back end.
+- 💞️ I’m looking to collaborate on projects, tryng to learn and get some experience.
