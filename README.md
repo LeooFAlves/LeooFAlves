@@ -1,7 +1,14 @@
-- 👋🏻 Hi, I’m @LeooFAlves
+<h1>Leonardo Alves</h1>
+Jr. Front End Developer
 
-- I'm studiyng to become a Front End Dev. I just started in this world, but I'm going to change my life!
+<h3>Hello, how are you? 🤘🏼</h3>
 
-- I know about HTML, CSS and JavaScript, of course, there is more to dicover!
+I started my journey in web development, and I'm studying to became a Front End Developer. <br>
+I am looking for my first opportunity in this world! <br>
+I'm already at my second course, and I do have small projects already done!
 
-- If you want to talk abou anything, let's be friends!! 
+🖥 HTML | CSS | Java Script | Git | GitHub <br>
+🉐➡🅰 Working at <b>Netwire Global</b>. A multilingual solutions company! <br>
+🎮 About me: I love technologies, play video game and travel! <br>
+📧 Contact: <a href= "https://www.linkedin.com/in/leoofalves/"> Linkedin</a> | leoalves150715@gmail.com <br>
+
