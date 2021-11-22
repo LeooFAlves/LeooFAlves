@@ -10,5 +10,5 @@ I'm already at my second course, and I do have small projects already done!
 🖥 HTML | CSS | Java Script | Git | GitHub <br>
 🉐➡🅰 Working at <b>Netwire Global</b>. A multilingual solutions company! <br>
 🎮 About me: I love technologies, play video game and travel! <br>
-📧 Contact: <a href= "https://www.linkedin.com/in/leoofalves/" target:_blank> Linkedin</a> | leoalves150715@gmail.com <br>
+📧 Contact: <a href= "https://www.linkedin.com/in/leoofalves/" target="_blank"> Linkedin</a> | leoalves150715@gmail.com <br>
 
