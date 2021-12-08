@@ -5,7 +5,7 @@ Jr. Front End Developer
 
 I started my journey in web development, and I'm studying to become a Front End Developer. <br>
 I am looking for my first opportunity in this world! <br>
-I'm already at my second course, and I do have small projects already done!
+I'm already at my second course, and I do have small projects already done! All repositories of these projects are down below!! ⏬⏬
 
 🖥 HTML | CSS | Java Script | Git | GitHub <br>
 🉐➡🅰 Working at <a href= "https://netwire.global/?lang=pt-br" target="_blank">Netwire Global</a>. A multilingual solution company! <br>
