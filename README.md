@@ -3,7 +3,7 @@ Jr. Front End Developer
 
 <h3>Hello, how are you? 🤘🏼</h3>
 
-I started my journey in web development, and I'm studying to became a Front End Developer. <br>
+I started my journey in web development, and I'm studying to become a Front End Developer. <br>
 I am looking for my first opportunity in this world! <br>
 I'm already at my second course, and I do have small projects already done!
 
