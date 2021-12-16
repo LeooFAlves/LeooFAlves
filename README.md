@@ -8,7 +8,7 @@ I am looking for my first opportunity in this world! <br>
 I'm already at my second course, and I do have small projects already done! All repositories of these projects are down below!! ⏬⏬
 
 🖥 HTML | CSS | Java Script | Git | GitHub <br>
-🉐➡🅰 Working at <a href= "https://netwire.global/?lang=pt-br" target="_blank">Netwire Global</a>. A multilingual solution company! <br>
+🉐➡🅰 Working at <a href= "https://netwire.global/?lang=pt-br" target="_blank">Netwire Global</a>. A multilingual solutions company! <br>
 🎮 About me: I love technologies, play video game and travel! <br>
 📧 Contact: <a href= "https://www.linkedin.com/in/leoofalves/" target="_blank"> Linkedin</a> | leoalves150715@gmail.com <br>
 
